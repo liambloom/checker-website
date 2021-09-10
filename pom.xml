@@ -8,10 +8,6 @@
 		<version>2.4.10</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<properties>
-		<maven.compiler.target>16</maven.compiler.target>
-		<maven.compiler.source>16</maven.compiler.source>
-	</properties>
 	<groupId>dev.liambloom.checker</groupId>
 	<artifactId>server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
